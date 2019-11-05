@@ -1,0 +1,14 @@
+p{color:purple}
+body{
+  width:100vw;
+  height:100vh;
+  background-color: rgb(0,200,200);
+  color:rgb(255,0,0);
+  font-family: Ariel;
+  margin:20px;
+}
+img{
+  border-radius: 50%;
+  margin: 20px auto;
+  border: solid rgb(255,255,255);
+}
